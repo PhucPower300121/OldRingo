@@ -71,7 +71,7 @@ You can also double-click `run.bat`.
 
 ## Author
 
-OldRingo is developed by **Mắt Thần Team**, the umbrella brand of **Phúc Power** ([@PhucPower300121](https://github.com/PhucPower300121)), who is currently the only member: developer, designer, tester and maintainer.
+OldRingo is developed by **Mắt Thần Team**. Author is **Phúc Power** ([@PhucPower300121](https://github.com/PhucPower300121)), who is currently the only member: developer, designer, tester and maintainer.
 
 ## Contributing
 
